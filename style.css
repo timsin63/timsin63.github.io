@@ -1,0 +1,126 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+h1{
+
+}
+
+
+*{
+      text-align: center;
+      
+   }
+ body{
+   font-family: 'Philosopher', sans-serif;
+     font-size: xx-large;
+   }
+
+.header {
+     background-image: url("http://www.motto.net.ua/pic/201209/1600x900/motto.net.ua-33360.jpg");
+     background-size: cover;
+     font-size: 50pt;
+     font-family: 'Lobster', cursive;
+     color: #AAC6C4;
+     height: 150pt;
+     padding-top: 50pt;
+   }
+
+
+.front{
+    background-image: url("http://www.tapety-na-plochu.eweb.cz/11403-linux_kb1600.jpg");
+    background-size: cover;
+     font-size: 35pt;
+    color: #FFFFFF;
+    height: 300px;
+    padding-top: 85pt;
+    border-top: 10pt solid #0F202F;
+}
+
+.js{
+   background-image: url( "http://newimages.ru/wallpapers/14_5665_oboi_temnaja_mjataja_bumaga_1366x768.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+    height: 300px;
+    padding-top: 60pt;
+    border-top: 7pt solid #111B23;
+    border-bottom: 7pt solid #111B23;
+}
+
+.php{
+    background-image: url("http://www.tapety-na-plochu.eweb.cz/11403-linux_kb1600.jpg");
+    background-size: cover;
+    padding-top: 90pt;
+    color: #FFFFFF;
+}
+
+.ved-cont{
+    background-image: url("http://www.motto.net.ua/pic/201209/1600x900/motto.net.ua-33360.jpg");
+    font-family: 'Tenor Sans', sans-serif;
+    color: #FFFFFF;
+    background-size: cover;
+
+}
+
+
+.ved{
+    width: 33.333%;
+    float: left;
+    background-image: url("http://www.motto.net.ua/pic/201209/1600x900/motto.net.ua-33360.jpg");
+    font-family: 'Tenor Sans', sans-serif;
+    color: #FFFFFF;
+    font-size: 22px;
+
+
+}
+
+.foot{
+    background: #5F050B;
+    background-size: cover;
+    color: #FFFFFF;
+    height: 50pt;
+    padding-top: 300pt;
+    text-align: center;
+
+}

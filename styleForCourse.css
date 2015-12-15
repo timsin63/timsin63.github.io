@@ -1,0 +1,115 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+body{
+    font-family: 'Comfortaa', cursive;
+    background-image: url("http://www.listofimages.com/wallpapers/2013/09/matrix-binary-abstract-2048x2560.jpg");
+}
+
+h1{
+    text-align: center;
+    font-size: x-large;
+    padding-top: 5pt;
+}
+
+iframe{
+    margin: 0 auto;
+    padding: 20pt 7%;
+}
+
+.header{
+    background-image: url("http://s13.imagestime.com/out.php/i958429_tumblrstaticfundo1.jpeg");
+    color: azure;
+    text-align: center;
+    height: 25pt;
+    padding-top: 15pt;
+}
+
+.container button{
+    margin-left: 6%;
+    margin-top: 10pt;
+}
+
+footer button{
+    margin-left: 19%;
+}
+
+
+
+footer{
+    background-image: url("http://s13.imagestime.com/out.php/i958429_tumblrstaticfundo1.jpeg");
+    color: azure;
+    padding: 20pt;
+}
+
+.container{
+    width: 50%;
+    background-color: gainsboro;
+    margin: 0 auto;
+    height: 500pt;
+    margin-bottom: 40pt;
+}
+
+button{
+    width: 200pt;
+    height: 30pt;
+}
+
+#hi{
+    padding-top: 10pt;
+}
+
+#name{
+    padding-top: 30pt;
+    padding-bottom: 30pt;
+}
+
+.preFooter{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 16pt;
+    color: gainsboro;
+
+}
