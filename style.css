@@ -79,7 +79,7 @@ h1{
 }
 
 .js{
-   background-image: url( "http://newimages.ru/wallpapers/14_5665_oboi_temnaja_mjataja_bumaga_1366x768.jpg");
+   background-image: "backgrounds/forjs.jpg";
     background-size: cover;
     color: #FFFFFF;
     height: 300px;
