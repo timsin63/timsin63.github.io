@@ -79,7 +79,7 @@ h1{
 }
 
 .js{
-   background-image: "backgrounds/forjs.jpg";
+   background-image: url("backgrounds/forjs.jpg");
     background-size: cover;
     color: #FFFFFF;
     height: 300px;
